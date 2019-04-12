@@ -6,3 +6,5 @@ La aplicación deberá manejar clientes (de los cuales se guarda su nombre, dire
 El pedido tiene un máximo de 20 unidades, del mismo o distinto tipo de producto. 
 
 Es importante que al momento de registrar el cobro se guarde la fecha real de pago, y el medio de pago elegido (tarjeta de crédito, efectivo).
+
+![Diagrama de Clases](https://github.com/gabrielpaz7/java-room-04-2019/blob/master/diagrama_clases.jpg)
