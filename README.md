@@ -24,4 +24,4 @@ Cada libro se presta un máximo de 30 días. Por cada día de retraso, se impone
 A) Realiza un diagrama de clases y añade los métodos necesarios para realizar el préstamo y devolución de libros.
 B) En un nuevo proyecto en Netbeans, crea las clases involucradas. Todas deben incluir, constructores (con y sin parámetros), getters y setters, y al menos tener enunciados los métodos que servirán para el préstamo de libros.
 
-![Diagrama de Clases](https://github.com/gabrielpaz7/java-room-04-2019/blob/master/biblioteca.png)
+![Diagrama de Clases](https://github.com/gabrielpaz7/java-room-04-2019/blob/master/Biblioteca.png)
